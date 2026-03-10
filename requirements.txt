@@ -36,16 +36,14 @@ pycryptodome
 pydub
 pyfiglet
 pykeyboard
-pyrofork
-# pyrogram==2.0.106
+pyrogram==2.0.106
 #git+https://github.com/KurimuzonAkuma/pyrogram.git
 python-dotenv
-python-telegram-bot==21.1.1
 python-whois
 pyshorteners
 pyttsx3
 pytz
-py-tgcalls==0.9.7
+pytgcalls
 pyyaml==6.0.1
 qrcode
 requests
